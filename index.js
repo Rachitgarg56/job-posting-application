@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const jobRoutes = require('./routes/job');
 
 const app = express();
-const PORT = 8080;
+const PORT = 10000;
 
 // JSON Parsing middleware
 app.use(express.json());
