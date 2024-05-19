@@ -1,0 +1,16 @@
+{
+  "name": "job-posting-application",
+  "version": "1.0.0",
+  "description": "crud functions on job postings",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rachitgarg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}

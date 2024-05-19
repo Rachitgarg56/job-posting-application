@@ -1,0 +1,9 @@
+// DATA FLOW (DB) === postman -> route -> controller -> model -> db 
+
+// Import Export === model -> controller -> route -> index.js
+// first we import model, model gets imported in controller , controller gets imported in route, route gets imported in index.js
+
+
+
+Model? It is a set of fields for a particular collection in DB along with their datatypes and validations,
+default values etc. 
